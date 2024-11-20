@@ -1,4 +1,5 @@
 import Body from "./Body";
+import Footer from "./Footer";
 import Header from "./header";
 
 const Home = () => {
@@ -6,7 +7,7 @@ const Home = () => {
         <>
             <Header />
             <Body />
-           
+           <Footer/>
         </>
     );
 };
