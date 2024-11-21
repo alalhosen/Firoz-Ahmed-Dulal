@@ -7,9 +7,9 @@ const Home = () => {
     return (
         <>
             <div className="w-[615px]">
-                {/* <Header /> */}
-                {/* <Body /> */}
-                {/* <Footer /> */}
+                <Header />
+                <Body />
+                <Footer />
             </div>
             <BannerBlood/>
         </>
