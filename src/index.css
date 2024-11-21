@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 .bg {
-   height: 135px;
-    background-size:auto;
+    height: 135px;
+    background-size: auto;
     background-repeat: no-repeat;
     background-image: url('./assets/doct-8.jpg');
 
