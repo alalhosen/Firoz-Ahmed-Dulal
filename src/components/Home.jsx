@@ -1,3 +1,4 @@
+import AlalHomio from "./AlalHomio";
 import BannerBlood from "./BannerBlood";
 import Body from "./Body";
 import Footer from "./Footer";
@@ -12,6 +13,7 @@ const Home = () => {
                 <Footer />
             </div>
             <BannerBlood/>
+            <AlalHomio/>
         </>
     );
 };
