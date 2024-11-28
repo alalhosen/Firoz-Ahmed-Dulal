@@ -9,3 +9,17 @@
     background-image: url('./assets/doct-8.jpg');
 
 }
+
+.nabulaijar2{
+    /* position: absolute; */
+}
+
+.bg-nabulaijar{
+    position:absolute;
+    border-radius: 50%;
+    left: 535px;
+    top: 680px;
+    background-size: auto;
+    background-repeat: no-repeat;
+background-image: url('./assets/Nabulaij2.jpg');
+}
