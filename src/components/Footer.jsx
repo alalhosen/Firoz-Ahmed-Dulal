@@ -11,7 +11,7 @@ const Footer = () => {
                     <p>
                         রানীশংকৈল, ঠাকুরগাঁও।
                     </p>
-                    <p>মোবাইলঃ ০১৭৫১৩৫৪২৭০</p>
+                    <p>মোবাইলঃ ০১৭৫১৩৫৪২৯৬</p>
                 </div>
                 <div className="h-16 w-28 -mt-">
                     <img src="https://i.ibb.co.com/52dQwhz/doct.jpg" alt="" />
