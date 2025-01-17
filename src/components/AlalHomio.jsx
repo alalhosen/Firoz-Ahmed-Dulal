@@ -3,7 +3,7 @@ const AlalHomio = () => {
     return (
         <>
             <div className="mt-36">
-                <h1>Homio Medicine for Alal`s Haemorrhoids</h1>
+                <h1 className="text-green-400 font-extrabold">Homio Medicine for Alal`s Haemorrhoids</h1>
                 <ul>
                     <h2 className="mt-4 text-red-500 text-xl">A. 03.09.24 ---=Tk-300</h2>
                     <li>1. Acid Nit</li>
